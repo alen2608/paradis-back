@@ -1,0 +1,71 @@
+
+tr.odd td.sorting_1 {
+	background-color: #ffe7f3;;
+}
+
+tr.even td.sorting_1 {
+	background-color: #fff0f8;
+}
+
+.dataTables_length {
+	width: 40%;
+	float: left;
+	margin-left: 10px;
+}
+
+.dataTables_filter {
+	width: 50%;
+	float: right;
+	text-align: right;
+	margin-right: 10px;
+}
+
+.dataTables_info {
+	width: 60%;
+	float: left;
+}
+
+.dataTables_paginate {
+	float: right;
+	text-align: right;
+}
+
+.style-form > .editform > label{
+	width: 100%;
+}
+
+.style-form > .editform > input{
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.style-form > .editform > .editSex{
+	padding-top: 6px;
+	padding-bottom: 0px;
+}
+
+.radio-inline{
+	margin-left: -20px;
+}
+
+.style-form > .editform > .form-inline > label{
+	width: 100%;
+	margin-left: 0px;
+	padding-top: 0px;
+	margin-top: -12px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	border-bottom: none;
+}
+.style-form > .editform > .form-inline > .dpYears{
+	margin-top: 1px;
+	margin-left: 15px;
+	border-bottom: none;
+	margin-bottom: -5px;
+} 
+
+.style-form > .editform > .form-inline > .dpYears > span{
+	left: -42px;
+	top: 34px
+}
+
